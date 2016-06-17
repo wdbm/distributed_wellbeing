@@ -43,7 +43,7 @@ options:
 """
 
 name    = "sentiment_tweets"
-version = "2016-06-17T1625Z"
+version = "2016-06-17T1636Z"
 logo    = None
 
 import docopt
@@ -75,9 +75,6 @@ def main(options):
     print(tweets.table())
 
     program.terminate()
-
-def word_features(words):
-    return dict([(word, True) for word in words])
 
 if __name__ == "__main__":
     options = docopt.docopt(__doc__)
