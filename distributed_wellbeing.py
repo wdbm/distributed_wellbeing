@@ -1,17 +1,15 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
 
 """
 ################################################################################
 #                                                                              #
-# sentiment_tweets                                                             #
+# distributed_wellbeing                                                        #
 #                                                                              #
 ################################################################################
 #                                                                              #
 # LICENCE INFORMATION                                                          #
 #                                                                              #
-# This program collates tweets and calculates the sentiment of the tweets. It  #
-# then presents the results in a table.                                        #
+# This program distributes wellbeing.                                          #
 #                                                                              #
 # This software is released under the terms of the GNU General Public License  #
 # version 3 (GPLv3).                                                           #
@@ -40,17 +38,32 @@ options:
     -v, --verbose            verbose logging
     -s, --silent             silent
     -u, --username=USERNAME  username
+    --peersfile=FILENAME     peers list file [default: peers.txt]
 """
 
-name    = "sentiment_tweets"
+name    = "distributed_wellbeing"
 version = "2016-06-22T1725Z"
-logo    = None
+logo    = (
+"       ___      __       _ __          __           __\n"
+"  ____/ (_)____/ /______(_) /_  __  __/ /____  ____/ /\n"
+" / __  / / ___/ __/ ___/ / __ \/ / / / __/ _ \/ __  / \n"
+"/ /_/ / (__  ) /_/ /  / / /_/ / /_/ / /_/  __/ /_/ /  \n"
+"\__,_/_/____/\__/_/  /_/_.___/\__,_/\__/\___/\__,_/   \n"
+"                    ______         _                  \n"
+"     _      _____  / / / /_  ___  (_)___  ____ _      \n"
+"    | | /| / / _ \/ / / __ \/ _ \/ / __ \/ __ `/      \n"
+"    | |/ |/ /  __/ / / /_/ /  __/ / / / / /_/ /       \n"
+"    |__/|__/\___/_/_/_.___/\___/_/_/ /_/\__, /        \n"
+"                                       /____/         "
+)
 
 import docopt
+import logging
+import os
+import sys
+import time
 
-import abstraction
 import propyte
-import pyprel
 
 def main(options):
 
@@ -64,36 +77,22 @@ def main(options):
     global log
     from propyte import log
 
+    filename_peers = options["--peersfile"]
+
     log.info("")
 
-    usernames = [
-        "AndrewYNg",
-        "geoff_hinton",
-        "SamHarrisOrg",
-        "ylecun"
-    ]
-
-    tweets = abstraction.access_users_tweets(
-        usernames = usernames
-    )
-
-    log.info("\ntable of tweets:\n")
-
-    print(tweets.table())
-
-    log.info("\nmost frequently expressed calculated sentiments of users:\n")
-
-    users_sentiments_single_most_frequent = tweets.users_sentiments_single_most_frequent()
-
-    pyprel.print_dictionary(dictionary = users_sentiments_single_most_frequent)
-
-    users_sentiment_negative = []
-    for username, sentiment in users_sentiments_single_most_frequent.iteritems():
-        if sentiment == "neg":
-            users_sentiment_negative.append(username)
-    log.info("list of users expressing negative sentiments most frequently:\n\n{usernames}".format(
-        usernames = users_sentiment_negative
+    # Read the local peers list.
+    if not os.path.exists(filename_peers):
+        log.error("file {filename} not found".format(
+            filename = filename_peers
+        ))
+        program.terminate()
+    peers_list_local = [line.rstrip("\n") for line in open(filename_peers)]
+    log.debug("peers list local: {peers}".format(
+        peers = peers_list_local
     ))
+
+    # upcoming functionality
 
     log.info("")
 

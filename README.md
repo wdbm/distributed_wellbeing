@@ -16,7 +16,7 @@ The metrics for description of individuals can be used to distribute wellbeing i
 
 ## precidents
 
-There exist multiple decentralised, distributed systems running on the internet. There is distributed currency in the form of Bitcoin, there is distributed communications in the form of Tox, there is distributed data in the form of BitTorrent and there is distributed information and interaction in the form of Tor and onion routing. Analysis of individuals and wellbeing can be distributed in a decentralised way.
+There exist multiple decentralized, distributed systems running on the internet. There is distributed currency in the form of Bitcoin, there is distributed communications in the form of Tox, there is distributed data in the form of BitTorrent and there is distributed information and interaction in the form of Tor and onion routing. Analysis of individuals and wellbeing can be distributed in a decentralized way.
 
 ## evolution of government
 
@@ -24,7 +24,7 @@ Revolution is hard and often unsuccessful. Evolution is easier and is more amena
 
 ## project goals
 
-A goal of this project is to collate thoughts and methods of describing individuals in terms of wellbeing needs, with two possible metrics being psychological wellbeing and financial wellbeing. Another goal of this project is to create free, open software that is decentralised and capable of analysis of individuals and automated flagging and prioritisation of psychological wellbeing needs and automated receipt of and distribution of wealth.
+A goal of this project is to collate thoughts and methods of describing individuals in terms of wellbeing needs, with two possible metrics being psychological wellbeing and financial wellbeing. Another goal of this project is to create free, open software that is decentralized and capable of analysis of individuals and automated flagging and prioritisation of psychological wellbeing needs and automated receipt of and distribution of wealth.
 
 # setup
 
@@ -42,3 +42,9 @@ git clone https://github.com/wdbm/distributed_wellbeing.git
 ./sentiment_tweets.py --help
 ./sentiment_tweets.py
 ```
+
+# decentralization
+
+In peer-to-peer decentralization, push technologies like UDP broadcasts can be used, whereby each client sends a heartbeat packet every so often on the network for others to receive. The module socket is useful for this.
+
+Bitcoin clients use several methods to locate other clients. A primary method is to use a list of nodes from a previous connection to the network. This works well generally for all connections except for the first connection and a connection that follows a long time of disconnection. With no local list of nodes, DNS seeds, maintained hosts, can be queried. A hardcoded list of nodes can be considered also. An old method was to use an IRC server that worked in a way similar to that of BitTorrent trackers.
