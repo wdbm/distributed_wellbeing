@@ -43,6 +43,12 @@ git clone https://github.com/wdbm/distributed_wellbeing.git
 ./sentiment_tweets.py
 ```
 
+## distributed wellbeing prototype
+
+```Bash
+./distributed_wellbeing.py --verbose
+```
+
 # decentralization
 
 In peer-to-peer decentralization, push technologies like UDP broadcasts can be used, whereby each client sends a heartbeat packet every so often on the network for others to receive. The module socket is useful for this.
