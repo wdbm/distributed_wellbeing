@@ -1,0 +1,6 @@
+include distributed_wellbeing.py
+include LICENSE
+include peers.txt
+include README.md
+include sentiment_tweets.py
+include setup.py
