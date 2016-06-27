@@ -42,7 +42,7 @@ options:
 """
 
 name    = "distributed_wellbeing"
-version = "2016-06-24T1609Z"
+version = "2016-06-27T1807Z"
 logo    = (
 "       ___      __       _ __          __           __\n"
 "  ____/ (_)____/ /______(_) /_  __  __/ /____  ____/ /\n"
@@ -131,6 +131,12 @@ def main(options):
                     port_number = port_number,
                     message     = message
                 ))
+
+                # upcoming: message accept/reject procedure
+                # Record the sender ID in order to limit the number of senders
+                # such that scalability problems do not manifest.
+                # Record the message ID in order to avoid parsing it again.
+
                 # If a peers list is detected, parse it and add it to the
                 # consensus.
                 if "peers =" in message:
@@ -154,7 +160,10 @@ def main(options):
         except:
             pass
         # send
-        message_send = "heartbeat" #shijian.UID()
+        message_send =\
+        "message_text = heartbeat; message_ID = {message_ID};".format(
+            message_ID = shijian.UID()
+        )
         socket_UDP.sendto(message_send, address_remote)
         time.sleep(1)
 
