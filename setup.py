@@ -9,7 +9,7 @@ def main():
 
     setuptools.setup(
         name             = "distributed_wellbeing",
-        version          = "2016.06.24.1609",
+        version          = "2016.06.27.1010",
         description      = "prototype decentralised wellbeing analysis and distribution system",
         long_description = pypandoc.convert("README.md", "rst"),
         url              = "https://github.com/wdbm/distributed_wellbeing",

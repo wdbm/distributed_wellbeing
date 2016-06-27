@@ -31,7 +31,9 @@ A goal of this project is to collate thoughts and methods of describing individu
 - <https://github.com/wdbm/abstraction>
 
 ```Bash
+sudo pip install distributed_wellbeing
 git clone https://github.com/wdbm/distributed_wellbeing.git
+cd distributed_wellbeing
 ```
 
 # usage
