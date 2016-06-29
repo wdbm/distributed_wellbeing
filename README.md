@@ -1,5 +1,7 @@
 # distributed wellbeing
 
+![](images/Einstein.png)
+
 # introduction
 
 ## distributed wellbeing
