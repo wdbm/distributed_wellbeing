@@ -2,6 +2,8 @@
 
 ![](images/Einstein.png)
 
+*It can't be bargained with; it can't be reasoned with; it doesn't feel pity, or remorse, or fear, and it absolutely will not stop, ever, until wellbeing is distributed.*
+
 # introduction
 
 ## distributed wellbeing
