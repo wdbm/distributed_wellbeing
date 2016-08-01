@@ -60,3 +60,5 @@ cd distributed_wellbeing
 In peer-to-peer decentralization, push technologies like UDP broadcasts can be used, whereby each client sends a heartbeat packet every so often on the network for others to receive. The module socket is useful for this.
 
 Bitcoin clients use several methods to locate other clients. A primary method is to use a list of nodes from a previous connection to the network. This works well generally for all connections except for the first connection and a connection that follows a long time of disconnection. With no local list of nodes, DNS seeds, maintained hosts, can be queried. A hardcoded list of nodes can be considered also. An old method was to use an IRC server that worked in a way similar to that of BitTorrent trackers.
+
+![](images/Simon_Stalenhag_by_procession_1920.jpg)
