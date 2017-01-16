@@ -42,7 +42,7 @@ options:
 """
 
 name    = "distributed_wellbeing"
-version = "2016-06-27T1807Z"
+version = "2017-01-16T1617Z"
 logo    = (
 "       ___      __       _ __          __           __\n"
 "  ____/ (_)____/ /______(_) /_  __  __/ /____  ____/ /\n"
