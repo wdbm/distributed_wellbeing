@@ -4,6 +4,10 @@
 
 *It can't be bargained with; it can't be reasoned with; it doesn't feel pity, or remorse, or fear, and it absolutely will not stop, ever, until wellbeing is distributed.*
 
+# NOTE
+
+This project is a work in progress. At this stage, this repository is for collation of ideas for the project. It is not a working prototype. Do not expect it to run successfully for you at this time.
+
 # introduction
 
 ## distributed wellbeing
@@ -20,7 +24,7 @@ The metrics for description of individuals can be used to distribute wellbeing i
 
 ## precidents
 
-There exist multiple decentralized, distributed systems running on the internet. There is distributed currency in the form of Bitcoin, there is distributed communications in the form of Tox, there is distributed data in the form of BitTorrent and there is distributed information and interaction in the form of Tor and onion routing. Analysis of individuals and wellbeing can be distributed in a decentralized way.
+There exist multiple decentralized, distributed systems running on the internet. There is distributed currency in the form of Bitcoin, there is distributed communications in the form of Tox, there is distributed data in the form of BitTorrent and there is distributed information and interaction in the form of Tor and onion routing and ZeroNet. Analysis of individuals and wellbeing can be distributed in a decentralized way.
 
 ## evolution of government
 
@@ -62,3 +66,7 @@ In peer-to-peer decentralization, push technologies like UDP broadcasts can be u
 Bitcoin clients use several methods to locate other clients. A primary method is to use a list of nodes from a previous connection to the network. This works well generally for all connections except for the first connection and a connection that follows a long time of disconnection. With no local list of nodes, DNS seeds, maintained hosts, can be queried. A hardcoded list of nodes can be considered also. An old method was to use an IRC server that worked in a way similar to that of BitTorrent trackers.
 
 ![](images/Simon_Stalenhag_by_procession_1920.jpg)
+
+# links
+
+- [p2p-project](https://github.com/p2p-today/p2p-project)
