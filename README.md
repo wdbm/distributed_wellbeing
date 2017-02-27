@@ -34,6 +34,14 @@ Revolution is hard and often unsuccessful. Evolution is easier and is more amena
 
 A goal of this project is to collate thoughts and methods of describing individuals in terms of wellbeing needs, with two possible metrics being psychological wellbeing and financial wellbeing. Another goal of this project is to create free, open software that is decentralized and capable of analysis of individuals and automated flagging and prioritisation of psychological wellbeing needs and automated receipt of and distribution of wealth.
 
+## authentication
+
+It is likely that the system shall need to ensure that there is one client instance per person. For this, a digital identity like Estonian e-Residency may be needed. 
+
+## experimentation
+
+The system should be able to experiment and to make a leap of faith into something new. It should not simply consider past behaviours because that could lead to stable stagnation.
+
 # setup
 
 - <https://github.com/wdbm/abstraction>
