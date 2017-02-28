@@ -42,6 +42,11 @@ It is likely that the system shall need to ensure that there is one client insta
 
 The system should be able to experiment and to make a leap of faith into something new. It should not simply consider past behaviours because that could lead to stable stagnation.
 
+## consensus and cooperation
+
+- Blockchain
+- Shamir's Secret Sharing
+
 # setup
 
 - <https://github.com/wdbm/abstraction>
