@@ -51,7 +51,7 @@ The system should be able to experiment and to make a leap of faith into somethi
 
 ## SOL50
 
-There is an urgent need for a universal basic income (UBI). The possibility of switching off "unemployment benefits" is incompatible with fundamental rights; this is sufficient motivation for UBI. Economically, the continuing rise of automation necessitates UBI. Socially, UBI will free people from economic dependence on others, whether that be in terms of activities in which they want to engage, or in terms of simple economic robustness, such as protecting children from the economic control or their parents or those people currently termed employers.
+There is an urgent need for a universal basic income (UBI). The possibility of switching off "unemployment benefits" is incompatible with fundamental rights; this is sufficient motivation for UBI. Economically, the continuing rise of automation necessitates UBI. Socially, UBI will free people from economic dependence on others, whether that be in terms of activities in which they want to engage, or in terms of simple economic robustness, such as protecting children from the economic control of their parents or those people currently termed employers.
 
 - [The Future of Employment: How Susceptible are Jobs to Computerisation?, C. B. Frey and M. A. Osborne, 2013-09-17](http://www.oxfordmartin.ox.ac.uk/downloads/academic/future-of-employment.pdf)
 
