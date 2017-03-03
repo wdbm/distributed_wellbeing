@@ -88,9 +88,12 @@ Bitcoin clients use several methods to locate other clients. A primary method is
 
 ![](images/Simon_Stalenhag_by_procession_1920.jpg)
 
-# links
+# references
 
 - [p2p-project](https://github.com/p2p-today/p2p-project)
+- [Peter Norvig economics simulation](http://nbviewer.jupyter.org/url/norvig.com/ipython/Economics.ipynb)
+- [Ireland employment rate](http://www.tradingeconomics.com/ireland/employment-rate)
+- [The effects of taxes and benefits on income inequality: 1977 to financial year ending 2015, Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/theeffectsoftaxesandbenefitsonincomeinequality/1977tofinancialyearending2015)
 
 # support
 
