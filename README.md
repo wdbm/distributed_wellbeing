@@ -47,6 +47,26 @@ The system should be able to experiment and to make a leap of faith into somethi
 - Blockchain
 - Shamir's Secret Sharing
 
+## legal
+
+### tax exemption on gifts
+
+One possible legal complication of implementing a combined wallet that acts as a sort of shared fund is taxation on transferring funds. In the UK, gifts of up to £250 can be made to an unlimited number of people. Perhaps this can be used to distribute contributions to the distributed system.
+
+Gifts to help with living costs of an ex-spouse, an elderly dependent or someone under age 18 or in fulltime education are exempt from taxation. Gifts from surplus income may be exempt. If one has enough income to maintain one's usual standard of living, one can make gifts from from that surplus income. An example might be a parent paying into their child's savings account. It may be necessary for the gift to be regular.
+
+To make use of exemptions, excellent records must be kept of gifts.
+
+Charitable gifts can be tax exempt. Could distributed_wellbeing be a charity?
+
+### capital gains tax
+
+Capital gains tax can be required on transfer of capital gains on assets of £6,000 or more. Capital gains tax is not paid on betting, lottery or pools winnings.
+
+## security
+
+The open source character of distributed_wellbeing is a sort distributed security for the activities of the system. It might make sense to distribute security of funds. This might take the form of every member defining a wallet which is used for the purposes of the system. Perhaps the private key of the wallet is created in such a way that it is accessible to the member (or the system?) only if the member and the system both agree for it to be accessible to the member (or the system?), at which point the part of the private key held by the system and the part of the private key held by the member are combined mathematically. If a member dies, perhaps their funds are lost (which could be an incentive to try to prevent members dying) or perhaps another member can be assigned by the system to hold a backup copy of the part of the private key held by the member.
+
 # government ideologies
 
 ## SOL50
