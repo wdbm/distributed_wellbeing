@@ -69,11 +69,24 @@ The open source character of distributed_wellbeing is a sort distributed securit
 
 # government ideologies
 
+Perhaps it is useful to consider a base class for governments and other cooperative legal structures, one that enables a very great degree of freedom on which more constrained governments can be built. For example, on something like an anarchist or libertarian base class could be built more socialist or communist governments and social contracts which one can join voluntarily.
+
 ## SOL50
 
 - "Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say. Nobody needs to justify why they 'need' a right. The burden of justification falls on the one seeking to infringe upon the right. You can't give away the rights of others because they're not useful to you. More simply, the majority cannot vote away the natural rights of the minority." -- Edward Snowden
 
-There is an urgent need for a universal basic income (UBI). The possibility of switching off "unemployment benefits" is incompatible with fundamental rights; this is sufficient motivation for UBI. Economically, the continuing rise of automation necessitates UBI. Socially, UBI will free people from economic dependence on others, whether that be in terms of activities in which they want to engage, or in terms of simple economic robustness, such as protecting children from the economic control of their parents or those people currently termed employers.
+There is an urgent need for a guaranteed unconditional universal basic income (UBI). The possibility of switching off "unemployment benefits" is incompatible with fundamental rights; this is sufficient motivation for UBI. Economically, the continuing rise of automation necessitates UBI. Socially, UBI will free people from economic dependence on others, whether that be in terms of activities in which they want to engage, or in terms of simple economic robustness, such as protecting children from the economic control of their parents or those people currently termed employers.
+
+With a verified citizen unique identity, ideas like UBI could be implemented in a decentralized or distributed way, for example on Ethereum or Omni.
+
+- [First official registration of a Zug citizen](https://medium.com/uport/first-official-registration-of-a-zug-citizen-on-ethereum-3554b5c2c238)
+- [uPort](https://github.com/uport-project)
+
+Information utilities like the internet could be shared. Consdier an excrypted shared mesh internet access network paid for by a decentralised or distributed automation.
+
+- [ZeroNet](https://zeronet.io/)
+- [Tor](https://www.torproject.org)
+- [Tox](https://tox.chat/)
 
 - [The Future of Employment: How Susceptible are Jobs to Computerisation?, C. B. Frey and M. A. Osborne, 2013-09-17](http://www.oxfordmartin.ox.ac.uk/downloads/academic/future-of-employment.pdf)
 
