@@ -71,6 +71,14 @@ The open source character of distributed_wellbeing is a sort distributed securit
 
 Perhaps it is useful to consider a base class for governments and other cooperative legal structures, one that enables a very great degree of freedom on which more constrained governments can be built. For example, on something like an anarchist or libertarian base class could be built more socialist or communist governments and social contracts which one can join voluntarily.
 
+# inflation and deflation
+
+Having multiple currencies has its benefits; if one currency is failing (such as the Venezuelan bolívar currently) people can jump to another currency backed by an alternative ideology, and it is getting easier to do this. Deflationary currencies can be beneficial in encouraging people to be careful to spend only on worthwhile things but they don't have the small protections against people who hoard wealth offered by inflationary currencies. In practice, wealthy people usually discover ways to store value that protect against inflation. Some ways are considered beneficial to societies, like investing, and other ways are considered detrimental, like holding empty properties. An option of an inflationary currency might offer some protections that would enable a new player to join the monopoly game more easily.
+
+A simple inflation algorithm to disincentivize hoarding and to encourage economic activity could have all basic income payments issued as progressively larger amounts per unit time.
+
+A more advanced inflation algorithm could behave as a sort of open source central bank or reserve, printing money in recession times in such an evidence-based way as to protect savings of everyone and economic activity as much as possible.
+
 ## SOL50
 
 - "Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say. Nobody needs to justify why they 'need' a right. The burden of justification falls on the one seeking to infringe upon the right. You can't give away the rights of others because they're not useful to you. More simply, the majority cannot vote away the natural rights of the minority." -- Edward Snowden
