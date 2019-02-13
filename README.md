@@ -104,6 +104,13 @@ The metrics for description of individuals can be used to distribute wellbeing i
 
 - [*Why the Left Will Win*](https://www.youtube.com/watch?v=ZIxs6vFIlNw) -- Oliver Lennard/Olly Thorn, [Philosophy Tube](https://www.youtube.com/user/thephilosophytube) (2018-06-06)
 
+#### A New Green Deal: climate change as the moral equivalent of war
+
+The book *Utopia for Realists* by Rutger Bregman makes the statistical, economic and historical case for ending borders and implementing universal unconditional basic income. At a panel session Davos 2019, Bregman links the socio-economic benefits, such as reducing wealth inequality, of war-time with framing responses to climate change as a form of war. This is an inventive approach that could be investigated, because it offers both the possibility of addressing climate change in tandem with the possibility of improving social wellbeing.
+
+- [Bregman linking socio-economic benefits of war-time with framing responses to climate change as a form of war](https://www.youtube.com/watch?v=r5LtFnmPruU&t=14m40s)
+- [Twitter communication of WBM with Bregman and raising the existence of the *Extinction Rebellion* social movement](https://twitter.com/WBreadenMadden/status/1095123727749185536)
+
 ---
 
 # rough, experimental, draft code
