@@ -12,15 +12,7 @@ This project is a work in progress. At this stage, this repository is for collat
 
 ## distributed wellbeing
 
-Imagine a mechanism of voting that does not involve placing a pictogram on paper into a secure box for scrutiny by a single government. Imagine one that involves running the government software of your choice. Imagine concurrent governments and distributed nations.
-
-## analysis of individuals
-
-There exist useful metrics for analysis of individuals. These metrics can include measures of psychological and financial wellbeing. For the former, a simple measure could be sentiment analysis of social media expressions; for the latter, a simple measure could be somewhat similar to measurements of benefits needs. Proxy-trust networks can reduce uncertainties.
-
-## distributed wellbeing
-
-The metrics for description of individuals can be used to distribute wellbeing in various forms. One form could be alerts for and prioritisation of psychological treatment, be that for everything from treatment of depression to treatment of religious fundamentalism. Another form could be distribution of wealth via Bitcoin using a donated fund owned by the distributed wellbeing system.
+Imagine a mechanism of voting that does not involve placing a pictogram on paper into a secure box for scrutiny by a single government. Imagine one that involves running the government software of your choice, and consider that, fundamentally, government is a form of technology, with contemporary governments being made up of artificial machines and humans. Imagine concurrent governments and distributed nations. Imagine what basic infrastructure would be needed to ensure protection of all of those concurrent governments and distributed nations.
 
 ## precidents
 
@@ -79,7 +71,9 @@ A simple inflation algorithm to disincentivize hoarding and to encourage economi
 
 A more advanced inflation algorithm could behave as a sort of open source central bank or reserve, printing money in recession times in such an evidence-based way as to protect savings of everyone and economic activity as much as possible.
 
-## SOL50
+## some draft government ideologies
+
+### draft government: SOL50
 
 - "Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say. Nobody needs to justify why they 'need' a right. The burden of justification falls on the one seeking to infringe upon the right. You can't give away the rights of others because they're not useful to you. More simply, the majority cannot vote away the natural rights of the minority." -- Edward Snowden
 
@@ -97,6 +91,20 @@ Information utilities like the internet could be shared. Consdier an excrypted s
 - [Tox](https://tox.chat/)
 
 - [The Future of Employment: How Susceptible are Jobs to Computerisation?, C. B. Frey and M. A. Osborne, 2013-09-17](http://www.oxfordmartin.ox.ac.uk/downloads/academic/future-of-employment.pdf)
+
+#### analysis of individuals
+
+There exist useful metrics for analysis of individuals. These metrics can include measures of psychological and financial wellbeing. For the former, a simple measure could be sentiment analysis of social media expressions; for the latter, a simple measure could be somewhat similar to measurements of benefits needs. Proxy-trust networks can reduce uncertainties.
+
+### draft government: distributed_vulnerability
+
+The metrics for description of individuals can be used to distribute wellbeing in various forms. One form could be alerts for and prioritisation of psychological treatment, be that for everything from treatment of depression to treatment of religious fundamentalism. Another form could be distribution of wealth via Bitcoin using a donated fund owned by the distributed wellbeing system.
+
+- [*Why the Left Will Win*](https://www.youtube.com/watch?v=ZIxs6vFIlNw) -- Oliver Lennard/Olly Thorn, [Philosophy Tube](https://www.youtube.com/user/thephilosophytube) (2018-06-06)
+
+---
+
+# rough, experimental, draft code
 
 # setup
 
