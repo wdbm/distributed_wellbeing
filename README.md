@@ -75,6 +75,8 @@ A more advanced inflation algorithm could behave as a sort of open source centra
 
 ### draft government: SOL50
 
+- SOL50: 50th anniversary of the Summer of Love
+
 - "Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say. Nobody needs to justify why they 'need' a right. The burden of justification falls on the one seeking to infringe upon the right. You can't give away the rights of others because they're not useful to you. More simply, the majority cannot vote away the natural rights of the minority." -- Edward Snowden
 
 There is an urgent need for a guaranteed unconditional universal basic income (UBI). The possibility of switching off "unemployment benefits" is incompatible with fundamental rights; this is sufficient motivation for UBI. Economically, the continuing rise of automation necessitates UBI. Socially, UBI will free people from economic dependence on others, whether that be in terms of activities in which they want to engage, or in terms of simple economic robustness, such as protecting children from the economic control of their parents or those people currently termed employers.
