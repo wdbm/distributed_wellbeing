@@ -8,6 +8,10 @@
 
 This project is a work in progress. At this stage, this repository is for collation of ideas for the project. It is not a working prototype. Do not expect it to run successfully for you at this time.
 
+# ALSO NOTE
+
+Everything might be wrong: [*Are Rules Made to Be Broken?*](https://www.youtube.com/watch?v=83OMzF7IbJI) -- Oliver Lennard/Olly Thorn/Philosophy Tube (2018-07-20)
+
 # introduction
 
 ## distributed wellbeing
