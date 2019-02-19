@@ -1,6 +1,6 @@
 # distributed wellbeing
 
-![](images/Einstein.png)
+![](media/Einstein.png)
 
 *It can't be bargained with; it can't be reasoned with; it doesn't feel pity, or remorse, or fear, and it absolutely will not stop, ever, until wellbeing is distributed.*
 
@@ -108,6 +108,16 @@ The metrics for description of individuals can be used to distribute wellbeing i
 
 - [*Why the Left Will Win*](https://www.youtube.com/watch?v=ZIxs6vFIlNw) -- Oliver Lennard/Olly Thorn, [Philosophy Tube](https://www.youtube.com/user/thephilosophytube) (2018-06-06)
 
+![](media/EdwardMoran-UnveilingTheStatueofLiberty1886Large.jpg)
+
+"Give me your tired, your poor,
+Your huddled masses yearning to breathe free,
+The wretched refuse of your teeming shore.
+Send these, the homeless, tempest-tost to me,
+I lift my lamp beside the golden door!"
+
+-- Emma Lazarus, from *The New Colossus* (1883)
+
 #### A New Green Deal: climate change as the moral equivalent of war
 
 The book *Utopia for Realists* by Rutger Bregman makes the statistical, economic and historical case for ending borders and implementing universal unconditional basic income. At a panel session Davos 2019, Bregman links the socio-economic benefits, such as reducing wealth inequality, of war-time with framing responses to climate change as a form of war. This is an inventive approach that could be investigated, because it offers both the possibility of addressing climate change in tandem with the possibility of improving social wellbeing.
@@ -150,7 +160,7 @@ In peer-to-peer decentralization, push technologies like UDP broadcasts can be u
 
 Bitcoin clients use several methods to locate other clients. A primary method is to use a list of nodes from a previous connection to the network. This works well generally for all connections except for the first connection and a connection that follows a long time of disconnection. With no local list of nodes, DNS seeds, maintained hosts, can be queried. A hardcoded list of nodes can be considered also. An old method was to use an IRC server that worked in a way similar to that of BitTorrent trackers.
 
-![](images/Simon_Stalenhag_by_procession_1920.jpg)
+![](media/Simon_Stalenhag_by_procession_1920.jpg)
 
 # references
 
